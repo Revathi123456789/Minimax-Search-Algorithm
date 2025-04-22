@@ -2,7 +2,6 @@
 <H3>NAME: REVATHI K</H3>
 <H3>REGISTER NO.: 212223040169</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
